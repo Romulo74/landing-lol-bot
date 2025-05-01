@@ -11,8 +11,8 @@ Acesse o bot no Telegram para interagir com ele!
 
 ## Link da Landing Page
 
-Acesse nossa landing page publicada pelo GitHub Pages:  
-[https://seu-usuario.github.io/landing-page-bot-lol/](https://seu-usuario.github.io/landing-page-bot-lol/)
+Acesse nossa landing page:  
+(https://landing-page-lol.web.app)
 
 ## Como usar o bot:
 1. Abra o Telegram e busque pelo bot.
